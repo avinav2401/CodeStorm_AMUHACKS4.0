@@ -38,3 +38,9 @@ ProFitness is a comprehensive fitness and wellness web application designed to h
 
 💪 **ProFitness** brings fitness, safety, and nutrition together—because a stronger you starts with the right support.
 #AMU_AMUHACKS4.0 #CSSAMU #AMU
+**
+<img width="1881" height="873" alt="image" src="https://github.com/user-attachments/assets/97eb3509-abe9-487d-9873-70041f3e029c" />
+<img width="1903" height="841" alt="image" src="https://github.com/user-attachments/assets/1cf8fedd-fbf8-498c-88cf-4eec20fdd611" />
+<img width="1181" height="771" alt="image" src="https://github.com/user-attachments/assets/4595c92c-8ec2-478f-98aa-d7e30a32fcd1" />
+<img width="987" height="683" alt="image" src="https://github.com/user-attachments/assets/1860afd6-c167-4df3-b30b-f736302f626a" />
+**
